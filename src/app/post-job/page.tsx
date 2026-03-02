@@ -131,7 +131,7 @@ export default function PostJobPage() {
                 <AlertDescription className="text-blue-800/90 text-sm leading-relaxed">
                   1. You can find the Folder ID in the URL when viewing the folder in Drive (the long string of letters and numbers at the end).
                   <br className="mb-1" />
-                  2. You <strong>must</strong> share this folder and give "Editor" access to the Google Apps Script service account email, otherwise candidate uploads will fail silently.
+                  2. You must share this folder and give "Editor" access to the Google Apps Script service account email, otherwise candidate uploads will fail silently.
                 </AlertDescription>
               </Alert>
             </div>
